@@ -44,10 +44,6 @@ SQL Server Management Studio (SSMS)
 
 /Backup – Full SQL Server backup file (.bak)
 
-🔐 Security & Authentication
-
-The database uses Mixed Mode Authentication and includes a dedicated user account with appropriate permissions.
-
 🚀 How to Run
 
 Open SQL Server Management Studio.
